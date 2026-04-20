@@ -50,14 +50,6 @@ pip install -r requirements.txt
 
 Pretrained models are hosted on Hugging Face.
 
-### Finetuned Model
-
-https://huggingface.co/zero9998/PISCO-finetune
-
-### Pretrained Model
-
-https://huggingface.co/zero9998/PISCO-pretrain
-
 Example usage:
 
 ```bash
